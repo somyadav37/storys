@@ -1,0 +1,1 @@
+Its anedit for you to staart a new comand line for git repositry .
